@@ -18,8 +18,7 @@ profile = {
 
 ## About Me
 
-I'm an MSc Finance & Economics graduate with a strong foundation in quantitative methods, financial modelling, and risk management. My research spans AI-powered financial crime detection, portfolio optimisation, derivatives pricing, and applied Python for real market data.
-
+Quantitative analyst with an MSc in Financial Technology (Distinction) and hands-on experience designing Python-based trading systems, quantitative models, and real-time analytics platforms across financial time-series and crypto market datasets. Skilled in statistical modelling, anomaly detection, and performance analysis across volatile market regimes, with a track record of building greenfield analytical tools that improve data reliability by 30% and reduce reporting latency by 40+ hours monthly. Experienced collaborating with quantitative researchers and risk stakeholders to translate market observations into actionable systematic trading insights. Eager to join an elite buy-side firm where I can contribute original quantitative research, develop high-impact trading systems, and grow alongside world-class engineers and quants.
 I build systematic models that connect financial theory with working code.
 
 ---
